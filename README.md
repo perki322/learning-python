@@ -1,6 +1,6 @@
 # TNEL Python Tutorial
 
-Using python for neuroscience
+Using python for neuroscience!! 
 
 ## Step 1 (by yourself)
 ### Setting up Python
